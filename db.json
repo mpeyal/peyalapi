@@ -11,4 +11,10 @@
       "belongsTo": "Post"
     }
   }
+  "peyaldb": {
+    "name": { "peyal" },
+    "id": {
+      "belongsTo": "university"
+    }
+  }
 }
