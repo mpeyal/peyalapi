@@ -1,3 +1,9 @@
 {
-  "namme": "peyal"
+  "ModelName": {
+    "fieldName": {
+      "<type>": {} | [],
+      "hasMany": "Model",
+      "belongsTo": "Model"
+    }
+  }
 }
