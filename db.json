@@ -14,7 +14,7 @@
   "peyaldb": {
     "name": { "peyal" },
     "id": {
-      "belongsTo": "university"
+      "belongsTo": "Post"
     }
   }
 }
